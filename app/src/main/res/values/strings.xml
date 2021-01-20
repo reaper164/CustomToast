@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">CustomToast</string>
     <string name="general_test">General Lee toast</string>
+    <string name="show_success_toast_test">Show success toast</string>
+    <string name="show_warning_toast_text">Show warning toast</string>
+    <string name="show_error_toast_text">Show error toast</string>
 </resources>
