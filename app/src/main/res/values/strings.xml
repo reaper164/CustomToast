@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomToast</string>
+    <string name="general_test">General Lee toast</string>
 </resources>
